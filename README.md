@@ -11,7 +11,7 @@
 
 ## School
 
-**[Highschool Engineering Portfolio](https://github.com/Charlotte-Latin-School/julia-rodrigues-angrisano.github.io)** — A live document of the engineering and computer science classes I've taken in highschool.* → [Engineering Capstone Project](https://github.com/Charlotte-Latin-School/julia-rodrigues-angrisano.github.io/blob/0a5116db36e2eebbf02474f1bcd9264f4a399ee1/EDM-II-Capstone.pdf)
+**[Highschool Engineering Portfolio](https://github.com/Charlotte-Latin-School/julia-rodrigues-angrisano.github.io)** — A live document of the engineering and computer science classes I've taken in highschool.* → [Engineering Capstone Project](https://drive.google.com/file/d/1Rwe9Bsz3JuV93sQEvwLqT-kM7VzPIAOZ/view?usp=sharing)
 
 <!--
 **juliaR0/juliaR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
