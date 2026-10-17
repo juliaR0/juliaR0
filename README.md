@@ -2,17 +2,17 @@
 
 ## Projects
 
-**[Baseline](https://github.com/you/repo)** — Baseline was a project prototyped by a team of 3 in 9 hours for the MIT Blueprint hackathon. Our team designed BASELINE as a means to provide a homebase for mental health regulation, offering guided breathing services, in addition to expression recognition technology. It won 1st place in the begginer category. *Hackathon, Collaboration, JavaScript, CSS, HTML*
+**[The Linguistic Cost of English-Dominated Science](https://github.com/juliaR0/The_Linguistic_Cost_of_EnglishDominated_Science)** — 9th grade science fair project, 4th place in regionals, 1st place special award from NC chapter of Association for Women in Science. *Science Fair, Linguistics, Python, Competition* → [Research Paper](https://github.com/user-attachments/files/25694057/Rodrigues_Angrisano_9_Computer_Science.1.pdf)
+
+**[NOMI](https://github.com/juliaR0/NOMI)** — Ready, Set, App! entry, won 3rd place. An app designed for the elderly to gain safety and independence by saving information about their lives and their family members, and including anti-phonecall-scam and return home GPS features, all designed for accessibility. *Collaboration, JavaScript, Android, App, Competition* → [Google Slides Presentation](https://docs.google.com/presentation/d/1Zumqxk0BrqOvMm0Hm_hknpuDUaz7SHDz5y-iW6IBKaU/edit?usp=sharing) [App Demo](https://youtu.be/MAms4v1L_Mo?si=gsq8nEfqJuMS4fYf)
+
+**[BASELINE](https://github.com/you/repo)** — Baseline was a project prototyped by a team of 3 in 9 hours for the MIT Blueprint hackathon. Our team designed BASELINE as a means to provide a homebase for mental health regulation, offering guided breathing services, in addition to expression recognition technology. It won 1st place in the begginer category. *Hackathon, Collaboration, JavaScript, CSS, HTML, Competition*
 → [Live demo site]( https://juliar0.github.io/Baseline/)
 
-**[School Website Project](https://schoolaccount.github.io/site)** — What it is and your role. *HTML, CSS, JS*
-→ [Code](link to school repo, if public)
+## School
 
-**[Private Project Showcase](https://github.com/you/project-showcase)** — What it does. *Tech*
-→ [Demo video](link)
+**[Highschool Engineering Portfolio](https://github.com/Charlotte-Latin-School/julia-rodrigues-angrisano.github.io)** — A live document of the engineering and computer science classes I've taken in highschool.* → [Engineering Capstone Project](https://github.com/Charlotte-Latin-School/julia-rodrigues-angrisano.github.io/blob/0a5116db36e2eebbf02474f1bcd9264f4a399ee1/EDM-II-Capstone.pdf)
 
-## Contact
-[email or LinkedIn, optional]
 <!--
 **juliaR0/juliaR0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
