@@ -6,7 +6,7 @@
 
 **[NOMI](https://github.com/juliaR0/NOMI)** — Ready, Set, App! entry, won 3rd place. An app designed for the elderly to gain safety and independence by saving information about their lives and their family members, and including anti-phonecall-scam and return home GPS features, all designed for accessibility. *Collaboration, JavaScript, Android, App, Competition* → [Google Slides Presentation](https://docs.google.com/presentation/d/1Zumqxk0BrqOvMm0Hm_hknpuDUaz7SHDz5y-iW6IBKaU/edit?usp=sharing) [App Demo](https://youtu.be/MAms4v1L_Mo?si=gsq8nEfqJuMS4fYf)
 
-**[BASELINE](https://github.com/you/repo)** — Baseline was a project prototyped by a team of 3 in 9 hours for the MIT Blueprint hackathon. Our team designed BASELINE as a means to provide a homebase for mental health regulation, offering guided breathing services, in addition to expression recognition technology. It won 1st place in the begginer category. *Hackathon, Collaboration, JavaScript, CSS, HTML, Competition*
+**[BASELINE](https://github.com/juliaR0/Baseline)** — Baseline was a project prototyped by a team of 3 in 9 hours for the MIT Blueprint hackathon. Our team designed BASELINE as a means to provide a homebase for mental health regulation, offering guided breathing services, in addition to expression recognition technology. It won 1st place in the begginer category. *Hackathon, Collaboration, JavaScript, CSS, HTML, Competition*
 → [Live demo site]( https://juliar0.github.io/Baseline/)
 
 ## School
